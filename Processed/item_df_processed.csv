@@ -1,0 +1,135 @@
+,Shelf ID,Item ID,Name,Origin,Location,Weight (g),Price,Marketing strategy,Discount ,Rate
+0,0,0,Bánh Oreo,Vietnam,Cao,120.0,17500.0,False,10,4
+1,0,1,Bánh Chocopie,Vietnam,Cao,396.0,48000.0,False,0,3
+2,0,2,Kẹo cao su Cool Air Fresh,Vietnam,Trung bình,40.0,40000.0,False,0,3
+3,0,3,Bánh mỳ chà bông Kinh đô,Vietnam,Trung bình,80.0,13400.0,False,0,3
+4,0,4,Bánh trứng Custard,Thái Lan,Trung bình,46.0,17000.0,True,10,4
+5,0,5,Hạt hướng dương Chacheer,Vietnam,Trung bình,130.0,25000.0,False,5,3
+6,0,6,Bim bim Oishi,Vietnam,Trung bình,70.0,12000.0,False,5,5
+7,0,7,Snack khoai tây Lays,Vietnam,Trung bình,90.0,22000.0,False,10,3
+8,0,8,Bánh gạo Richi,Vietnam,Cao,168.0,39000.0,False,0,4
+9,0,9,Socola trứng Kinder,Ý,Thấp,20.0,28500.0,False,10,4
+10,0,10,Kẹo dẻo Alphelibe,Vietnam,Thấp,73.5,15300.0,False,15,3
+11,0,11,Thạch rau câu Đức Hạnh,Vietnam,Thấp,320.0,30500.0,False,0,4
+12,0,12,Kẹo Haribo charshmallows,Vietnam,Thấp,70.0,28500.0,False,0,3
+13,1,0,Dầu gội XMen,Vietnam,Thấp,180.0,70000.0,False,5,5
+14,1,1,Dầu gội Romano,Vietnam,Thấp,380.0,122000.0,False,25,4
+15,1,2,Dầu gội Dove,Vietnam,Thấp,621.0,166000.0,True,10,3
+16,1,3,Dầu gội Sunsilk,Vietnam,Thấp,631.0,145000.0,False,10,4
+17,1,4,Sửa rửa mặt Oxy,Vietnam,Trung bình,100.0,138000.0,False,10,4
+18,1,5,Sửa rửa mặt Hada Labo,Vietnam,Trung bình,80.0,83000.0,False,0,4
+19,1,6,Sửa rửa mặt Simple,Vietnam,Trung bình,150.0,132000.0,False,0,5
+20,1,7,Dao cạo râu Gillet,Thailand,Thấp,,40000.0,False,0,4
+21,1,8,Tăm bông ngoáy tai Famapro,Vietnam,Thấp,,17000.0,False,11,4
+22,1,9,Bàn chải Colgate,Vietnam,Thấp,,79500.0,False,5,5
+23,1,10,Khăn tắm Shine,Vietnam,Trung bình,,115000.0,True,20,5
+24,1,11,Khăn mặt Shine,Vietnam,Trung bình,,23000.0,True,20,5
+25,1,12,Bông tẩy trang Kokimi,Vietnam,Thấp,,54000.0,False,0,4
+26,1,13,Tã dán Merries size NB 76 miếng (dưới 5kg),Nhật Bản,Cao,,385000.0,False,0,3
+27,1,14,Tã dán sơ sinh Bobby siêu mỏng Newborn 70 miếng (cho bé dưới 5kg),Nhật Bản,Cao,,215000.0,False,0,3
+28,1,15,Tã dán sơ sinh Goo.n Premium Newborn 70 miếng,Nhật Bản,Cao,,300000.0,True,10,5
+29,1,16,Băng ban ngày Diana ,Nhật Bản,Cao,,21000.0,False,0,4
+30,1,17,Băng ban đêm Diana Super Night,Nhật Bản,Cao,,18500.0,False,0,3
+31,2,0,Lốc 4 hộp sữa tươi Vinamilk 100% ít đường,Vietnam,Trung bình,180.0,32500.0,False,0,3
+32,2,1,Lốc 4 hộp sữa tươi ít đường TH true MILK,Vietnam,Trung bình,180.0,40000.0,False,0,3
+33,2,2,4 hộp sữa lúa mạch Milo 180ml,Vietnam,Trung bình,180.0,30000.0,False,0,5
+34,2,3,Sữa bột Ensure Gold lúa mạch,Hoa Kỳ,Thấp,850.0,905000.0,False,0,3
+35,2,4,Sửa bột Anele,New Zealand,Thấp,800.0,410000.0,False,10,5
+36,2,5,Sữa bột Meiji Mama,Nhật Bản,Thấp,350.0,235000.0,False,0,3
+37,2,6,Sữa bột Anmum Materna,Malaysia,Thấp,400.0,245000.0,False,0,4
+38,2,7,Sữa bột Milo,Úc,Thấp,330.0,60000.0,True,15,3
+39,2,8,Sữa ông thọ,Vietnam,Thấp,380.0,31500.0,False,0,3
+40,3,0,Ðậu xanh,Vietnam,Thấp,150.0,12000.0,False,0,3
+41,3,1,Ðậu đỏ,Vietnam,Thấp,150.0,14000.0,False,0,4
+42,3,2,Gạo ST25 Neptune,Vietnam,Thấp,5000.0,139000.0,True,10,4
+43,3,3,Mỳ Hảo Hảo,Vietnam,Trung bình,75.0,4400.0,False,0,5
+44,3,4,Mỳ Cung Ðình,Vietnam,Trung bình,80.0,8000.0,False,0,4
+45,3,5,Mỳ Omachi,Vietnam,Trung bình,80.0,88000.0,False,0,4
+46,3,6,Mỳ trứng Safoco,Vietnam,Trung bình,400.0,27000.0,False,0,5
+47,3,7,Phở vifon,Vietnam,Trung bình,65.0,9000.0,False,0,4
+48,3,8,Nui Safoco,Vietnam,Trung bình,500.0,35000.0,False,5,3
+49,3,9,Miếng dong Miến vương,Vietnam,Trung bình,500.0,54000.0,False,0,5
+50,3,10,Bánh đa Vifon,Vietnam,Trung bình,300.0,30000.0,False,0,3
+51,3,11,Phở khô Chinsu,Vietnam,Trung bình,500.0,35000.0,False,0,4
+52,3,12,Phồng tôm Bích chi,Vietnam,Thấp,100.0,6400.0,False,0,4
+53,3,13,Ngũ cốc VinaCafe,Vietnam,Cao,500.0,67500.0,False,0,5
+54,3,14,Khô bò Hải Châu,Vietnam,Cao,24.0,31000.0,False,0,4
+55,3,15,Khô gà Thảo Nguyên Phát,Vietnam,Cao,100.0,52500.0,False,0,4
+56,3,16,Strongbow dâu đen,Vietnam,Trung bình,330.0,19200.0,True,5,5
+57,3,17,Bia 333,Vietnam,Trung bình,330.0,14500.0,False,0,5
+58,3,18,Bia Sài Gòn Special,Vietnam,Trung bình,330.0,16000.0,False,20,3
+59,3,19,Vodka Hà Nội,Vietnam,Trung bình,700.0,120000.0,False,30,5
+60,3,20,Vodka Cá sấu,Vietnam,Trung bình,300.0,70000.0,False,20,3
+61,3,21,Vang đỏ đà lạt,Vietnam,Trung bình,750.0,104000.0,False,10,3
+62,3,22,Coca Cola,Vietnam,Trung bình,600.0,10300.0,False,15,3
+63,3,23,Fanta,Vietnam,Trung bình,600.0,10300.0,False,20,3
+64,3,24,Sprite,Vietnam,Trung bình,600.0,10300.0,False,10,3
+65,4,0,Nước mắm Chinsu,Vietnam,Cao,720.0,52000.0,False,5,5
+66,4,1,Nước mắm cá cơm Thuận Phát,Vietnam,Cao,610.0,59000.0,True,10,3
+67,4,2,Nước mắm hạnh phúc,Vietnam,Cao,500.0,145000.0,False,20,3
+68,4,3,Nước mắm Nam ngư,Vietnam,Cao,900.0,56500.0,False,25,3
+69,4,4,Dầu ăn Simply,Vietnam,Cao,1000.0,79000.0,False,10,5
+70,4,5,Dầu ăn Tường An,Vietnam,Cao,1000.0,64500.0,False,5,4
+71,4,6,Dầu ăn Meizan,Vietnam,Cao,1000.0,47000.0,False,0,3
+72,4,7,Bột canh Vifon,Vietnam,Thấp,450.0,13300.0,False,0,4
+73,4,8,Mỳ chính Miwon,Hàn Quốc,Thấp,454.0,34000.0,False,5,3
+74,4,9,Mỳ chính Ajinomoto,Nhật Bản,Thấp,454.0,36000.0,False,10,4
+75,4,10,Ðường kính Toàn Phát,Vietnam,Thấp,500.0,13500.0,False,22,4
+76,4,11,Ðường phèn Biên Hoà,Vietnam,Thấp,1000.0,35500.0,False,10,5
+77,4,12,Xì dầu Chinsu,Vietnam,Trung bình,330.0,19000.0,False,0,3
+78,4,13,Xì dầu Tam Thái tử,Vietnam,Trung bình,500.0,8800.0,False,0,5
+79,4,14,Tương ớt Chinsu,Vietnam,Trung bình,250.0,16600.0,False,0,4
+80,4,15,Tương ớt Cholimex,Vietnam,Trung bình,270.0,11800.0,False,0,3
+81,4,16,Dầu hào Maggi,Vietnam,Trung bình,350.0,28500.0,False,10,3
+82,4,17,Nước mắm cho bé Thuyền xưa,Vietnam,Trung bình,65.0,28000.0,False,10,4
+83,4,18,Nước mắm cho bé Barona,Vietnam,Trung bình,50.0,27500.0,False,15,4
+84,5,0,Nồi cơm điện Sunhouse,Vietnam,Cao,1200.0,590000.0,False,30,3
+85,5,1,Nồi cơm điện Cuckcoo,Hàn Quốc,Cao,1080.0,1350000.0,True,30,4
+86,5,2,Nồi cơm điện Kangaroo,Vietnam,Cao,1200.0,569000.0,False,10,5
+87,5,3,Nồi cơm điện Lock&Lock,Hàn Quốc,Cao,1200.0,1600000.0,True,30,3
+88,5,4,Chảo Sunhouse,Vietnam,Trung bình,30.0,318000.0,False,20,4
+89,5,5,Chảo Lock&Lock,Vietnam,Trung bình,28.0,475000.0,True,30,4
+90,5,6,Bếp điện từ Sunhouse,Vietnam,Cao,2000.0,849000.0,False,15,4
+91,5,7,Bếp điện từ Lock&Lock,Vietnam,Cao,1850.0,1500000.0,True,20,3
+92,5,8,Bếp nướng Sunhouse,Vietnam,Cao,1500.0,399000.0,False,10,3
+93,5,9,Bếp nướng Lock&Lock,Vietnam,Cao,1300.0,845000.0,True,30,3
+94,5,10,Máy xay sinh tố Comet,Vietnam,Trung bình,1500.0,639000.0,False,20,4
+95,5,11,Máy xay sinh tố Sunhouse,Vietnam,Trung bình,1500.0,700000.0,False,25,4
+96,5,12,Máy xay sinh tố Lock&Lock,Trung Quốc,Trung bình,600.0,500000.0,True,15,4
+97,5,13,Ðèn bàn Ðiện Quang,Vietnam,Thấp,3.0,550000.0,False,15,3
+98,5,14,Phích cắm điện Ðiện Quang,Vietnam,Thấp,3200.0,270000.0,False,10,3
+99,5,15,Ổ cắm điện Lioa,Vietnam,Thấp,2200.0,265000.0,False,5,3
+100,6,0,Gấu bông Miyu,Vietnam,Thấp,,170000.0,False,0,4
+101,6,1,Siêu nhân Marvel,Vietnam,Thấp,,63000.0,False,0,4
+102,6,2,Sách cho trẻ sơ sinh đến 6 tháng tuổi,Vietnam,Trung bình,8.0,150000.0,False,0,4
+103,6,3,Sách cho trẻ từ 1-2 tuổi,Vietnam,Trung bình,4.0,152000.0,False,0,4
+104,6,4,Sách cho trẻ từ 2-3 tuổi,Vietnam,Trung bình,8.0,42000.0,False,0,3
+105,6,5,Sách cho trẻ từ 4-5 tuổi,Vietnam,Trung bình,8.0,28000.0,False,0,4
+106,6,6,Sách Chào con Ba mẹ đã sẵn sàng,Vietnam,Trung bình,,80000.0,False,0,3
+107,6,7,Sách - Nuôi Con không phải là cuộc chiến Easy,Vietnam,Trung bình,,205000.0,False,0,5
+108,6,8,Sách Cẩm Nang Mang Thai & Sinh con,Vietnam,Trung bình,,85000.0,False,0,4
+109,6,9,Truyện tranh Conan,Vietnam,Trung bình,,24000.0,False,0,4
+110,6,10,Truyện Doraemon,Vietnam,Trung bình,,22000.0,False,0,4
+111,6,11,Sách Nhà Giả Kim,Vietnam,Trung bình,,70000.0,False,0,5
+112,6,12,Sách Ðắc Nhẫn Tâm,Vietnam,Trung bình,,70000.0,False,0,4
+113,6,13,Sách Thép Ðã Tôi Thế Ðây,Vietnam,Trung bình,,130000.0,False,0,3
+114,6,14,Sách Thám tử Sherlock Home,Vietnam,Trung bình,3.0,300000.0,False,0,3
+115,6,15,Sách Bên Nhau Trọn Ðời,Vietnam,Trung bình,,90000.0,False,0,3
+116,6,16,Sách Ðạo Tình,Vietnam,Trung bình,2.0,165000.0,False,0,3
+117,6,17,Sách Công Tắc Tình Yêu,Vietnam,Trung bình,,60000.0,False,0,3
+118,7,0,Kem tràng tiền,Vietnam,Trung bình,10.0,45700.0,True,5,5
+119,7,1,Kem vinamilk,Vietnam,Trung bình,,175000.0,False,0,5
+120,7,2,Sữa chua Vinamik,Vietnam,Trung bình,100.0,25400.0,False,0,3
+121,7,3,Sửa chua TH,Vietnam,Trung bình,100.0,29000.0,False,0,3
+122,7,4,Sữa chua Mộc Châu,Vietnam,Trung bình,100.0,25000.0,False,0,3
+123,7,5,Sữa chua Ba vì,Vietnam,Trung bình,100.0,20000.0,False,0,4
+124,7,6,Sữa chua uống Yakult,Vietnam,Trung bình,65.0,26000.0,False,0,3
+125,7,7,Sữa chua uống Probi,Vietnam,Trung bình,130.0,36000.0,False,5,5
+126,7,8,Sữa chua Susu,Vietnam,Trung bình,80.0,25000.0,False,0,3
+127,7,9,Bibigo Mandu,Hàn Quốc,Thấp,350.0,30500.0,False,0,3
+128,7,10,Viên thả lẩu cầu tre,Vietnam,Thấp,300.0,54000.0,False,0,5
+129,7,11,Pizza kitkool,Vietnam,Thấp,140.0,33000.0,False,0,4
+130,7,12,Mý ý SG Food,Vietnam,Thấp,250.0,27000.0,False,0,4
+131,7,13,Thanh cua Akira,Nhật Bản,Thấp,200.0,58500.0,False,0,4
+132,7,14,Nước lẩu Barona,Vietnam,Thấp,180.0,32000.0,False,0,4
+133,7,15,Xúc xích CP,Vietnam,Thấp,450.0,94000.0,False,0,4
